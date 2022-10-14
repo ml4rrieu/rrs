@@ -1,0 +1,26 @@
+{% if page.title == "Home" %}
+      <a href="./index.html" class="btn active">Home</a>
+    {% else %}
+      <a href="./index.html" class="btn">Home</a>
+{% endif %}
+
+{% if page.title == "Publications list" %}
+      <a href="./publications-list.html" class="btn active">Publications list</a>
+    {% else %}
+      <a href="./publications-list.html" class="btn">Publications list</a>
+{% endif %}
+
+{% if page.title == "FAQ" %}
+      <a href="./faq.html" class="btn active">FAQ</a>
+    {% else %}
+      <a href="./faq.html" class="btn">FAQ</a>
+{% endif %}
+
+
+
+<!-- 
+This did not permit to highlight the active item menu
+<a href="./index.html" class="btn">Home</a>
+<a href="./publications-list.html" class="btn">Publications list</a>
+<a href="./faq.html" class="btn">FAQ</a>
+ -->

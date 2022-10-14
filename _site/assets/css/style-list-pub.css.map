@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style-list-pub.css",
+	"sources": [
+		"style-list-pub.scss"
+	],
+	"sourcesContent": [
+		"@import 'style.css';\n\n\n\n.main-content {\n  max-width: 100%;\n  padding-top: 1%;\n}\n\n/* DISPLAY TABLE*/\n.container-fluid{\n    font-size: 80%;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAP,cAAO;AAIP,AAAA,aAAa,CAAC,EACZ,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,EAAE,GAChB;;AAED,kBAAkB;AAClB,AAAA,gBAAgB,CAAA,EACZ,SAAS,EAAE,GAAG,GACjB"
+}
