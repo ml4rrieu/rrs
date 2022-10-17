@@ -5,6 +5,6 @@ title: Publications list
 ---
 
 {: .center}
-[Download data (github page)](https://raw.githubusercontent.com/ml4rrieu/rrs/gh-pages/fr-publications-rrs-applied.csv) 
+[Download data (raw csv from github)](https://raw.githubusercontent.com/ml4rrieu/rrs/main/fr-publications-rrs-applied.csv) 
 
 
