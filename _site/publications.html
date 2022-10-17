@@ -66,6 +66,7 @@
       <h1 class="project-name">French RRS Monitor</h1>
 
       <h2 class="project-tagline">French Right Retention Strategy Monitor</h2>
+
       <!--  -->
       
 
@@ -94,12 +95,7 @@ This did not permit to highlight the active item menu
 </header>
 
     <main id="content" class="main-content" role="main">
-      <h2 id="in-construction">In construction</h2>
-
-<!-- ## [home](./index.html) | MORE ? 
- -->
-
-
+      
 
 
     <!-- START OF THE CSV TO HTML CODE -->
@@ -127,8 +123,8 @@ This did not permit to highlight the active item menu
 
         function add_check_box(value) {
             // pour ajouter des checkbox
-            if (value)
-                return "<div class='form-check form-switch'><input class='form-check-input' type='checkbox' id='flexSwitchCheckCheckedDisabled' checked disabled> </div> ";
+            if (value == "True")
+                return "<div class='form-check'> <input class='form-check-input' type='checkbox' value='' checked disabled></div>";
             else return "";
         }
 
@@ -140,6 +136,7 @@ This did not permit to highlight the active item menu
                 separator: ",",
                 delimiter: '"'
             },
+
             datatables_options: {
                 paging: true,
                 iDisplayLength: 25, // affiche 25 items max par page
@@ -147,12 +144,17 @@ This did not permit to highlight the active item menu
             },
             custom_formatting: [
                 [0, format_link],
-                [4, add_check_box] // ajouter des checkbow sur la colonne d'index n
+                [4, add_check_box], // ajouter des checkbow sur la colonne d'index n
+                [3, add_check_box]
             ]
         });
     </script>
+
+    <p class="center"><a href="https://raw.githubusercontent.com/ml4rrieu/rrs/gh-pages/fr-publications-rrs-applied.csv">Download data (github page)</a></p>
+
+
+
     <!-- END OF CSV TO HTML CODE -->
-    
     <footer class="site-footer">
   
     <span class="site-footer-owner">

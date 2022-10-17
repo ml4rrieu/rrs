@@ -4,11 +4,7 @@ title: Publications list
 #permalink: /table/
 ---
 
-
-## In construction
-
-<!-- ## [home](./index.html) | MORE ? 
- -->
-
+{: .center}
+[Download data (github page)](https://raw.githubusercontent.com/ml4rrieu/rrs/gh-pages/fr-publications-rrs-applied.csv) 
 
 

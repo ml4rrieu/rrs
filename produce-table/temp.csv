@@ -1,0 +1,55 @@
+,primaryDomain_s,journalPublisher_s,journalIssn_s,halId_s,docType_s,doiId_s,submittedDate_s,anrProjectAcronym_s,upw_issns,upw_vor_is_oa
+0,phys.phys.phys-bio-ph,eLife Sciences Publication,2050-084X,hal-03799889,ART,10.7554/eLife.72707,2022-10-06,False,2050-084X,True
+1,sdv.bc.bc,,,hal-03798290,UNDEFINED,10.1101/2022.09.23.509043,2022-10-05,False,,False
+2,sdv.mhep.mi,MDPI,2076-0817,hal-03788705,ART,10.3390/pathogens11091045,2022-09-26,False,2076-0817,True
+3,phys.meca.mefl,Cambridge University Press (CUP),0022-1120,hal-03559481,ART,10.1017/jfm.2022.658,2022-09-25,False,"0022-1120,1469-7645",True
+4,sdv,American Chemical Society,0022-2623,hal-03783673,ART,10.1021/acs.jmedchem.1c00806,2022-09-22,False,"0022-2623,1520-4804",True
+5,sdv.neu.nb,MDPI,2073-4409,hal-03782836,ART,10.3390/cells11172713,2022-09-21,False,2073-4409,True
+6,sdv.bbm.bs,National Academy of Sciences,0027-8424,hal-03779985,ART,10.1073/pnas.2200468119,2022-09-18,False,"0027-8424,1091-6490",True
+7,sdv,Nature Publishing Group,1548-7091,hal-03722336,ART,10.1038/s41592-021-01317-x,2022-07-13,False,"1548-7091,1548-7105",True
+8,sdv.bbm.bc,Elsevier,0955-0674,pasteur-03716706,ART,10.1016/j.ceb.2022.102081,2022-07-07,True,0955-0674,True
+9,info.info-ai,,,lirmm-03714595,COMM,10.14778/3551793.3551851,2022-07-05,False,2150-8097,False
+10,sdv,,,pasteur-03712988,UNDEFINED,10.1101/2021.08.30.458241,2022-07-04,True,,False
+11,phys.astr,,,hal-03579777,ART,10.3847/1538-4365/ac5022,2022-06-20,False,"0067-0049,1538-4365",True
+12,sdv,ACS Publications,2470-1343,pasteur-03699210,ART,10.1021/acsomega.2c01099,2022-06-20,False,"2470-1343,2470-1343",True
+13,info.info-bi,Nature Publishing Group,2041-1723,pasteur-03694335,ART,10.1038/s41467-022-28121-1,2022-06-13,False,2041-1723,True
+14,sdv,Nature Publishing Group,2041-1723,hal-03684839,ART,10.1038/s41467-021-25649-6,2022-06-01,False,2041-1723,True
+15,sdv,American Society for Microbiology,2161-2129,pasteur-03675874,ART,10.1128/mbio.03510-21,2022-05-23,True,2150-7511,True
+16,sdv,Elsevier,0092-8674,hal-03659222,ART,10.1016/j.cell.2021.08.016,2022-05-04,False,0092-8674,True
+17,sdv.bbm.bc,National Academy of Sciences,0027-8424,pasteur-03648366,ART,10.1073/pnas.2122161119,2022-04-21,False,"0027-8424,1091-6490",True
+18,sdv,Public Library of Science,1935-2727,hal-03648068,ART,10.1371/journal.pntd.0010256,2022-04-21,True,1935-2735,True
+19,sdv.ib.ima,Wiley,0740-3194,hal-03646797,ART,10.1002/mrm.29216,2022-04-19,False,"0740-3194,1522-2594",True
+20,sdv.bbm.bc,Wiley-VCH Verlag,0265-9247,pasteur-03606359,ART,10.1002/bies.202100296,2022-03-11,True,"0265-9247,1521-1878",True
+21,sdv,Oxford University Press,,hal-03599283,ART,10.1093/ve/veab062,2022-03-07,False,2057-1577,True
+22,sdv,American Society for Microbiology,2165-0497,pasteur-03589312,ART,10.1128/spectrum.02376-21,2022-02-25,False,2165-0497,True
+23,phys,American Institute of Physics,0021-8979,hal-03532947,ART,10.1063/5.0063136,2022-02-21,True,"0021-8979,1089-7550",False
+24,sdv,Society for General Microbiology,2057-5858,pasteur-03566824,ART,10.1099/mgen.0.000737,2022-02-11,False,2057-5858,True
+25,sdv.imm,Wiley-VCH Verlag,0014-2980,pasteur-03566563,ART,10.1002/eji.202149766,2022-02-11,True,"0014-2980,1521-4141",True
+26,phys.meca.mema,Elsevier,0045-7825,hal-03544037,ART,10.1016/j.cma.2021.114500,2022-01-26,False,0045-7825,True
+27,sdv.mhep,Cambridge University Press (CUP),0033-2917,hal-03538870,ART,10.1017/s003329172100492x,2022-01-21,False,"0033-2917,1469-8978",True
+28,shs,BioMed Central,1744-8603,hal-03485170,ART,10.1186/s12992-021-00761-w,2022-01-19,False,1744-8603,True
+29,sdv.mp.pro,Nature Publishing Group,2058-5276,hal-03521407,ART,10.1038/s41564-021-01020-9,2022-01-13,True,2058-5276,True
+30,shs.anthro-se,Taylor & Francis (Routledge),0145-9740,hal-03517488,ART,10.1080/01459740.2021.2015591,2022-01-07,False,"0145-9740,1545-5882",True
+31,sdv.mp,Frontiers Media,1664-302X,hal-03515260,ART,10.3389/fmicb.2021.765943,2022-01-06,False,1664-302X,True
+32,sdv.mp.par,Nature Publishing Group,2045-2322,pasteur-03491954,ART,10.1038/s41598-021-99152-9,2021-12-18,False,2045-2322,True
+33,sdv,BioMed Central,1471-2261,inserm-03474321,ART,10.1186/s12872-021-02308-8,2021-12-10,False,1471-2261,True
+34,sdv,BMJ Publishing Group Ltd,,inserm-03472445,ART,10.1136/bmjgh-2021-005187,2021-12-09,False,2059-7908,True
+35,sdv,,,hal-03472238,ART,10.1186/s13071-021-05042-4,2021-12-09,True,1756-3305,True
+36,sdv.bc.bc,,,hal-03454274,UNDEFINED,10.1101/2021.09.24.461707,2021-11-29,False,,False
+37,sdv,Public Library of Science,1932-6203,inserm-03451518,ART,10.1371/journal.pone.0258127,2021-11-26,False,1932-6203,True
+38,sdv.bc.bc,Frontiers media,2296-634X,hal-03448955,ART,10.3389/fcell.2021.749806,2021-11-25,False,2296-634X,True
+39,sdv.ib,Wiley,0740-3194,hal-03404534,ART,10.1002/mrm.28931,2021-10-26,False,"0740-3194,1522-2594",True
+40,phys.cond.cm-ms,Elsevier,1359-6462,hal-03389681,ART,10.1016/j.scriptamat.2021.114233,2021-10-21,False,1359-6462,True
+41,sdu,Elsevier,0019-1035,hal-03367845,ART,10.1016/j.icarus.2021.114661,2021-10-06,False,0019-1035,True
+42,sdv,Rockefeller University Press,0021-9525,hal-03365863,ART,10.1083/jcb.202010020,2021-10-05,False,"0021-9525,1540-8140",True
+43,sdv,Oxford University Press,,hal-03358372,ART,10.1093/ve/veab065,2021-09-29,False,2057-1577,True
+44,scco.neur,Nature Publishing Group,2045-2322,hal-03357198,ART,10.1038/s41598-021-95685-1,2021-09-28,False,2045-2322,True
+45,sdv,BioMed Central,1471-2458,inserm-03356444,ART,10.1186/s12889-021-11749-x,2021-09-28,False,1471-2458,True
+46,sdv,American Society for Microbiology,0095-1137,pasteur-03346634,ART,10.1128/jcm.01581-21,2021-09-16,True,"0095-1137,1098-660X",True
+47,scco.neur,American Association for the Advancement of Science (AAAS),2375-2548,hal-03346442,ART,,2021-09-16,False,,False
+48,math.math-oc,,,hal-03346287,UNDEFINED,,2021-09-16,False,,False
+49,sdv,Public Library of Science,1553-734X,hal-03344682,ART,10.1371/journal.pcbi.1009105,2021-09-15,True,1553-7358,True
+50,phys.meca.mefl,Cambridge University Press (CUP),0022-1120,hal-03084366,ART,10.1017/jfm.2021.702,2021-09-07,False,"0022-1120,1469-7645",False
+51,sdv.spee,,,hal-03328505,ART,10.5334/bc.110,2021-08-30,False,2632-6655,True
+52,info.info-bi,,,hal-03240376,UNDEFINED,10.1101/2021.05.24.445406,2021-05-28,False,,True
+53,sdv.bc,Rockefeller University Press,0021-9525,hal-03218707,ART,,2021-05-05,False,,False
