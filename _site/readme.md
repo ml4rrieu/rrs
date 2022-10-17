@@ -4,5 +4,4 @@
 
 /!\ 2022-10-14 under  construction ... be patient.
 
-
 The repository of the website "french RRS monitor", that shed light on the publications where the Right Retention Strategy has been applied.

@@ -107,13 +107,21 @@ This did not permit to highlight the active item menu
 
     <script>
         function format_link(link) {
+            // pour transformer les halId en uri
             if (link)
-                return "<a href='" + link + "' target='_blank'>" + link.split("/").slice(-1) + "</a>";
+                return "<a href='https://hal.archives-ouvertes.fr/" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        function add_check_box(value) {
+            // pour ajouter des checkbox
+            if (value)
+                return "<div class='form-check form-switch'><input class='form-check-input' type='checkbox' id='flexSwitchCheckCheckedDisabled' checked disabled> </div> ";
             else return "";
         }
 
         CsvToHtmlTable.init({
-            csv_path: "./test-from-hal.csv",
+            csv_path: "./fr-publications-rrs-applied.csv",
             element: "table-container",
             allow_download: false,
             csv_options: {
@@ -121,10 +129,13 @@ This did not permit to highlight the active item menu
                 delimiter: '"'
             },
             datatables_options: {
-                paging: false
+                paging: true,
+                iDisplayLength: 25, // affiche 25 items max par page
+                order: [5, "desc"] // l'index de la colonne à ordoner par defaut
             },
             custom_formatting: [
-                [0, format_link]
+                [0, format_link],
+                [4, add_check_box] // ajouter des checkbow sur la colonne d'index n
             ]
         });
     </script>
@@ -132,7 +143,8 @@ This did not permit to highlight the active item menu
     
     <footer class="site-footer">
   
-    <span class="site-footer-owner"><a href="">Github repository </a> &#9679; Maxence Larrieu
+    <span class="site-footer-owner">
+        <a href="">Github repository </a>
     </span>
 
     <!--  -->
