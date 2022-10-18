@@ -21,5 +21,6 @@ cons : the more you describe journal type the less you promote diversity. Try to
 
 ## Credits
 
-Maxence Larrieu 
+Maxence Larrieu
+
 Ross Mounce
