@@ -2,8 +2,11 @@
 .main-content { max-width: 100%; padding-top: 1%; }
 
 /* DISPLAY TABLE*/
-.container-fluid { margin-left: auto; margin-right: auto; width: 1200px; font-size: 80%; }
+.container-fluid { margin-left: auto; margin-right: auto; width: 1200px; font-size: 90%; }
 
 h2 { text-align: center; }
+
+/* style value data in table */
+tbody { font-size: 80%; text-align: center; line-height: 0.8; }
 
 /*# sourceMappingURL=style-list-pub.css.map */

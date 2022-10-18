@@ -9,6 +9,3 @@ The **Right Retention Strategy** (RRS) is an initiative from a consortium of res
 {: .home-txt}
 This website describe publications in the [french repository HAL](https://hal.archives-ouvertes.fr), where the Right Retention Strategy has been applied.
 
-
-<!-- *[RRS]: Right Retention Strategy
- -->

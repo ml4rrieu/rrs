@@ -15,10 +15,18 @@
     margin-left: auto;
     margin-right: auto;
     width: 1200px;
-    font-size: 80%;
+    font-size:90%;
+    
 
 }
 
 h2{
     text-align: center;
+}
+
+/* style value data in table */
+tbody{
+    font-size: 80%;
+    text-align:center;
+    line-height: 0.8;
 }

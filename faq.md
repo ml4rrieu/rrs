@@ -1,7 +1,6 @@
 ---
 layout: default
 title: FAQ
-#description: Frequently Asked Questions
 ---
 
 ## What is the purpose of the RRS ? 
@@ -11,6 +10,15 @@ The Right Retention Strategy, translated in french as _Stratégie de non céssio
 ## How does it work ? 
 
 Directly at the beginning of the submission process, the authors state to the publisher that they will appy a CC BY licence to the accepted version of their manuscript. Thanks to the CC BY licence the authors are free to deposit the accepted version of their paper in an open access repository like [HAL](https://hal.archives-ouvertes.fr) or [Zenodo](https://zenodo.org)
+
+## What is a CC BY licence
+The most common Open Access licence : 
+
+> **CC** : Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. From the reuser’s perspective, the presence of a Creative Commons license on a copyrighted work answers the question, “What can I do with this work?” 
+
+> **BY** : license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use
+
+[creativecommons.org/about/cclicenses/](https://creativecommons.org/about/cclicenses/)
 
 
 ## How to apply the RRS ? 
@@ -38,10 +46,20 @@ There are basically three steps in the publication process, corresponding to thr
 
 [source](https://camacuk.zendesk.com/hc/en-us/articles/115005898287-What-is-the-author-accepted-manuscript-AAM-)
 
+## What is the idea of the RRS ? 
+
+The idea of the Right Retention Strategy is that the author ceases to transfer his copyright to the publisher _on all the three versions of a paper_, but transferts it only for the last version, the one where the publisher adds that extra value (copy edyting + layout for example).
+
+The author retains the rights on the _preprint_ and the _Author Accepted Version_ and makes them openly available through a repository with a CC BY license.
+
 
 ## How do you get the publications listed in that website ?
 
-We search for papers in the [french repository HAL](https://hal.archives-ouvertes.fr) where the sentence _the author has applied a CC BY public copyright licence_ has been inserted.
+It is a query for papers in the [french repository HAL](https://hal.archives-ouvertes.fr) where the sentence _the author has applied a CC BY public copyright licence_ has been inserted.
+
+## How often will the data be updated?
+
+Once per month
 
 ## Please describe the columns of the table (data schema)
 
@@ -70,7 +88,7 @@ Is publication comes from an ANR project (the main french funder). /!\ true only
 The date when the deposit in HAL has been made
 
 
-## More information
+## More information on the RRS
 
 * In french, see the guide [Mettre en œuvre la stratégie de non-cession des droits sur les publications scientifiques](https://www.ouvrirlascience.fr/mettre-en-oeuvre-la-strategie-de-non-cession-des-droits-sur-les-publications-scientifiques/) from the French Committee for Open Science. 
 
