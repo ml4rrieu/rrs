@@ -44,13 +44,16 @@ There are basically three steps in the publication process, corresponding to thr
 
 ![](https://camacuk.zendesk.com/hc/article_attachments/115010362588/infographic-what-version.886eae51.png)
 
-[source](https://camacuk.zendesk.com/hc/en-us/articles/115005898287-What-is-the-author-accepted-manuscript-AAM-)
+Credit : Office of Scholarly Communication, University of Cambridge, CC BY
+
+
+
 
 ## What is the idea of the RRS ? 
 
 The idea of the Rights Retention Strategy is that the author retains their rights to use and share their work online. Under some models of academic publishing the publisher would ask the authors to sign a Copyright Transfer Agreement to sign away almost all of the authors rights to their own work - this practice is unnecessary and perhaps undesirable.
 
-The author retains the rights on the _preprint_ and the _Author Accepted Manuscript_ and can make them openly available through a repository with a CC BY license.
+When RRS is applied, the author retains the rights on the _preprint_ and the _Author Accepted Manuscript_ and can make those versions openly available through a repository with a CC BY license.
 
 
 ## How do you get the publications listed in that website ?
