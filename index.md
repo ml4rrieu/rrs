@@ -16,7 +16,7 @@ Authors retains sufficient rights to their publication to deposit a version of i
 * Sounds good, I want to know more
 
 {: .home-txt}
-See the [french publications](publications.html) where the RRS has been applied and have a look at the [FAQ](/faq)
+See the [french publications](publications.html) where the RRS has been applied and have a look at the [FAQ](/faq.html)
 
 
 
