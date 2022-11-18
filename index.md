@@ -4,8 +4,19 @@ title: Home
 ---
 
 {: .home-txt}
-The **Rights Retention Strategy** (RRS) is an initiative from a consortium of research funders, the [Coaliation S](https://www.coalition-s.org/), which promote immediate open access without requiring payment to publish (no Article Processing Charge). The RRS is a way to publish in open access without paying.
+The **Rights Retention Strategy** (RRS) allow researchers to publish immediately in open access regardless the economic model of the publisher
 
 {: .home-txt}
-This website describe publications in the [french repository HAL](https://hal.archives-ouvertes.fr), where the Right Retention Strategy has been applied.
+* How ? 
+
+{: .home-txt}
+Authors retains sufficient rights to their publication to deposit a version of it in an open repository
+
+{: .home-txt}
+* Sounds good, I want to know more
+
+{: .home-txt}
+See the [french publications](publications.html) where the RRS has been applied and have a look at the [FAQ](/faq)
+
+
 

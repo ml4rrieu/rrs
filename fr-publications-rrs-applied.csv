@@ -1,4 +1,10 @@
-HAL URI,genre,publisher,publisher vers. is OA,ANR project,deposit date
+HAL URI,genre,publisher,"publisher vers.
+is oa",European/ANR project,deposit date
+hal-03837142,article,Elsevier,True,False,2022-11-03
+hal-03837128,article,eLife Sciences Publication,True,False,2022-11-03
+hal-03832767,article,Frontiers Media,True,False,2022-10-27
+hal-03364970,article,Nature Publishing Group,True,False,2022-10-21
+hal-03817584,article,Oxford University Press (OUP),True,True,2022-10-17
 hal-03799889,article,eLife Sciences Publication,True,False,2022-10-06
 hal-03798290,preprint,,False,False,2022-10-05
 hal-03788705,article,MDPI,True,False,2022-09-26
@@ -21,10 +27,10 @@ hal-03648068,article,Public Library of Science,True,True,2022-04-21
 hal-03646797,article,Wiley,True,False,2022-04-19
 pasteur-03606359,article,Wiley-VCH Verlag,True,True,2022-03-11
 hal-03599283,article,Oxford University Press,True,False,2022-03-07
-pasteur-03589312,article,American Society for Microbiology,True,False,2022-02-25
+pasteur-03589312,article,American Society for Microbiology,True,True,2022-02-25
 hal-03532947,article,American Institute of Physics,False,True,2022-02-21
-pasteur-03566824,article,Society for General Microbiology,True,False,2022-02-11
-pasteur-03566563,article,Wiley-VCH Verlag,True,True,2022-02-11
+pasteur-03566824,article,Society for General Microbiology,True,True,2022-02-11
+pasteur-03566563,article,Wiley-VCH Verlag,False,True,2022-02-11
 hal-03544037,article,Elsevier,True,False,2022-01-26
 hal-03538870,article,Cambridge University Press (CUP),True,False,2022-01-21
 hal-03485170,article,BioMed Central,True,False,2022-01-19

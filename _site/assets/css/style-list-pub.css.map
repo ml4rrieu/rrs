@@ -5,7 +5,7 @@
 		"style-list-pub.scss"
 	],
 	"sourcesContent": [
-		"@import 'style.css';\n\n\n\n.main-content {\n  max-width: 100%;\n  padding-top: 1%;\n}\n\n/* DISPLAY TABLE*/\n.container-fluid{\n    margin-left: auto;\n    margin-right: auto;\n    width: 1200px;\n    font-size:90%;\n    \n\n}\n\nh2{\n    text-align: center;\n}\n\n/* style value data in table */\ntbody{\n    font-size: 80%;\n    text-align:center;\n    line-height: 0.8;\n}"
+		"@import 'style.css';\n\n\n\n.main-content {\n  max-width: 100%;\n  padding-top: 1%;\n}\n\n/* DISPLAY TABLE*/\n.container-fluid{\n    margin-left: auto;\n    margin-right: auto;\n    width: 1300px;\n    font-size:90%;\n    \n\n}\n\nh2{\n    text-align: center;\n}\n\n/* style value data in table */\ntbody{\n    font-size: 80%;\n    text-align:center;\n    line-height: 0.8;\n}"
 	],
 	"names": [],
 	"mappings": "AAAA,OAAO,CAAP,cAAO;AAIP,AAAA,aAAa,CAAC,EACZ,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,EAAE,GAChB;;AAED,kBAAkB;AAClB,AAAA,gBAAgB,CAAA,EACZ,WAAW,EAAE,IAAI,EACjB,YAAY,EAAE,IAAI,EAClB,KAAK,EAAE,MAAM,EACb,SAAS,EAAC,GAAG,GAGhB;;AAED,AAAA,EAAE,CAAA,EACE,UAAU,EAAE,MAAM,GACrB;;AAED,+BAA+B;AAC/B,AAAA,KAAK,CAAA,EACD,SAAS,EAAE,GAAG,EACd,UAAU,EAAC,MAAM,EACjB,WAAW,EAAE,GAAG,GACnB"
