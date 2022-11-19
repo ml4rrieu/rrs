@@ -42,7 +42,7 @@ There are basically three steps in the publication process, corresponding to thr
 * _Author Accepted Manuscript (AAM)_ is the one after the reviewing process and before the layout work done by the publisher 
 * _Publisher version_ is one with the journal and publisher logos, where the final layout has been done
 
-![](https://camacuk.zendesk.com/hc/article_attachments/115010362588/infographic-what-version.886eae51.png)
+![version-of-publication-and-rights](assets/img/publishing-process-cambridge-cc-by.png)
 
 Credit : Office of Scholarly Communication, University of Cambridge, CC BY.
 

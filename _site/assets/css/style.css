@@ -378,7 +378,7 @@ a:hover { text-decoration: underline; }
 /*TEXT de la page d'accueil*/
 .home-txt { font-size: 150%; /*    text-align: center;*/ padding-bottom: 1%; }
 
-.site-footer { padding-top: 1%; text-align: center; font-weight: normal; padding-bottom: 0%; }
+.site-footer { margin-top: 6%; padding-top: 1%; text-align: center; font-weight: normal; padding-bottom: 0%; }
 
 .center { text-align: center; }
 
