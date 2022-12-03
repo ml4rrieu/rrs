@@ -35,17 +35,17 @@ In its simplest form :
 
 * That's it !
 
+
 ## What is the Author Accepted Manuscript <br /> and the Publisher Version ? 
 
 There are basically three steps in the publication process, corresponding to three versions : 
 * _Preprint_, (or first submission version) is the version you submit to a publisher 
 * _Author Accepted Manuscript (AAM)_ is the one after the reviewing process and before the layout work done by the publisher 
-* _Publisher version_ is one with the journal and publisher logos, where the final layout has been done
+* _Publisher version_ is the one with the journal and publisher logos, where the final layout has been done
 
 ![version-of-publication-and-rights](assets/img/publishing-process-cambridge-cc-by.png)
 
 Credit : Office of Scholarly Communication, University of Cambridge, CC BY.
-
 
 
 
@@ -54,6 +54,7 @@ Credit : Office of Scholarly Communication, University of Cambridge, CC BY.
 The idea of the Rights Retention Strategy is that the author retains their rights to use and share their work online. Under some models of academic publishing the publisher would ask the authors to sign a Copyright Transfer Agreement to sign away almost all of the authors rights to their own work - this practice is unnecessary and perhaps undesirable.
 
 When RRS is applied, the author retains the rights on the _preprint_ and the _Author Accepted Manuscript_ and can make those versions openly available through a repository with a CC BY license.
+
 
 
 ## How do you get the publications listed in that website ?
@@ -93,6 +94,6 @@ The date when the fulltext deposit in HAL was made.
 
 ## More information on the RRS
 
-* In french, see the guide [Mettre en œuvre la stratégie de non-cession des droits sur les publications scientifiques](https://www.ouvrirlascience.fr/mettre-en-oeuvre-la-strategie-de-non-cession-des-droits-sur-les-publications-scientifiques/) from the French Committee for Open Science.
+* See the guide [Implementing the rights retention strategy for scientific publications](https://www.ouvrirlascience.fr/implementing-the-rights-retention-strategy-for-scientific-publications/) from the French Committee for Open Science. [FR version](https://www.ouvrirlascience.fr/mettre-en-oeuvre-la-strategie-de-non-cession-des-droits-sur-les-publications-scientifiques/)
 
-* In english, see the dedicated page on the [cOAlition S website](https://www.coalition-s.org/rights-retention-strategy/).
+* See the dedicated page on the [cOAlition S website](https://www.coalition-s.org/rights-retention-strategy/).

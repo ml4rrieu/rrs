@@ -1,61 +1,66 @@
 HAL URI,genre,publisher,"publisher vers.
 is oa",European/ANR project,deposit date
-hal-03837142,article,Elsevier,True,False,2022-11-03
-hal-03837128,article,eLife Sciences Publication,True,False,2022-11-03
-hal-03832767,article,Frontiers Media,True,False,2022-10-27
-hal-03364970,article,Nature Publishing Group,True,False,2022-10-21
-hal-03817584,article,Oxford University Press (OUP),True,True,2022-10-17
-hal-03799889,article,eLife Sciences Publication,True,False,2022-10-06
-hal-03798290,preprint,,False,False,2022-10-05
-hal-03788705,article,MDPI,True,False,2022-09-26
-hal-03559481,article,Cambridge University Press (CUP),True,False,2022-09-25
-hal-03783673,article,American Chemical Society,True,False,2022-09-22
-hal-03782836,article,MDPI,True,False,2022-09-21
-hal-03779985,article,National Academy of Sciences,True,False,2022-09-18
-hal-03722336,article,Nature Publishing Group,True,False,2022-07-13
-pasteur-03716706,article,Elsevier,True,True,2022-07-07
-lirmm-03714595,proceedings,,False,False,2022-07-05
-pasteur-03712988,preprint,,False,True,2022-07-04
-hal-03579777,article,,True,False,2022-06-20
-pasteur-03699210,article,ACS Publications,True,False,2022-06-20
-pasteur-03694335,article,Nature Publishing Group,True,False,2022-06-13
-hal-03684839,article,Nature Publishing Group,True,False,2022-06-01
-pasteur-03675874,article,American Society for Microbiology,True,True,2022-05-23
-hal-03659222,article,Elsevier,True,False,2022-05-04
-pasteur-03648366,article,National Academy of Sciences,True,False,2022-04-21
-hal-03648068,article,Public Library of Science,True,True,2022-04-21
-hal-03646797,article,Wiley,True,False,2022-04-19
-pasteur-03606359,article,Wiley-VCH Verlag,True,True,2022-03-11
-hal-03599283,article,Oxford University Press,True,False,2022-03-07
-pasteur-03589312,article,American Society for Microbiology,True,True,2022-02-25
-hal-03532947,article,American Institute of Physics,False,True,2022-02-21
-pasteur-03566824,article,Society for General Microbiology,True,True,2022-02-11
-pasteur-03566563,article,Wiley-VCH Verlag,False,True,2022-02-11
-hal-03544037,article,Elsevier,True,False,2022-01-26
-hal-03538870,article,Cambridge University Press (CUP),True,False,2022-01-21
-hal-03485170,article,BioMed Central,True,False,2022-01-19
-hal-03521407,article,Nature Publishing Group,True,True,2022-01-13
-hal-03517488,article,Taylor & Francis (Routledge),True,False,2022-01-07
-hal-03515260,article,Frontiers Media,True,False,2022-01-06
-pasteur-03491954,article,Nature Publishing Group,True,False,2021-12-18
-inserm-03474321,article,BioMed Central,True,False,2021-12-10
-inserm-03472445,article,BMJ Publishing Group Ltd,True,False,2021-12-09
-hal-03472238,article,,True,True,2021-12-09
-hal-03454274,preprint,,False,False,2021-11-29
-inserm-03451518,article,Public Library of Science,True,False,2021-11-26
-hal-03448955,article,Frontiers media,True,False,2021-11-25
-hal-03404534,article,Wiley,True,False,2021-10-26
-hal-03389681,article,Elsevier,True,False,2021-10-21
-hal-03367845,article,Elsevier,True,False,2021-10-06
-hal-03365863,article,Rockefeller University Press,True,False,2021-10-05
-hal-03358372,article,Oxford University Press,True,False,2021-09-29
-hal-03357198,article,Nature Publishing Group,True,False,2021-09-28
-inserm-03356444,article,BioMed Central,True,False,2021-09-28
-pasteur-03346634,article,American Society for Microbiology,True,True,2021-09-16
-hal-03346442,article,American Association for the Advancement of Science (AAAS),False,False,2021-09-16
-hal-03346287,preprint,,False,False,2021-09-16
-hal-03344682,article,Public Library of Science,True,True,2021-09-15
-hal-03084366,article,Cambridge University Press (CUP),False,False,2021-09-07
-hal-03328505,article,,True,False,2021-08-30
-hal-03240376,preprint,,True,False,2021-05-28
-hal-03218707,article,Rockefeller University Press,False,False,2021-05-05
+hal-03880659,article,Frontiers media,True,,2022-12-01
+insu-03867009,article,Nature Publishing Group,True,,2022-11-23
+hal-03864274,article,Wiley,True,,2022-11-21
+hal-03862359,article,eLife Sciences Publication,True,,2022-11-21
+hal-03709462,article,,True,,2022-11-18
+hal-03837142,article,Elsevier,True,,2022-11-03
+hal-03837128,article,eLife Sciences Publication,True,,2022-11-03
+hal-03832767,article,Frontiers Media,True,,2022-10-27
+hal-03364970,article,Nature Publishing Group,True,,2022-10-21
+hal-03817584,article,Oxford University Press (OUP),True,Europe,2022-10-17
+hal-03799889,article,eLife Sciences Publication,True,,2022-10-06
+hal-03798290,preprint,,False,,2022-10-05
+hal-03788705,article,MDPI,True,,2022-09-26
+hal-03559481,article,Cambridge University Press (CUP),True,,2022-09-25
+hal-03783673,article,American Chemical Society,True,,2022-09-22
+hal-03782836,article,MDPI,True,,2022-09-21
+hal-03779985,article,National Academy of Sciences,True,,2022-09-18
+hal-03722336,article,Nature Publishing Group,True,,2022-07-13
+pasteur-03716706,article,Elsevier,True,Europe & ANR,2022-07-07
+lirmm-03714595,proceedings,,False,,2022-07-05
+pasteur-03712988,preprint,,False,ANR,2022-07-04
+hal-03579777,article,,True,,2022-06-20
+pasteur-03699210,article,ACS Publications,True,,2022-06-20
+pasteur-03694335,article,Nature Publishing Group,True,,2022-06-13
+hal-03684839,article,Nature Publishing Group,True,,2022-06-01
+pasteur-03675874,article,American Society for Microbiology,True,ANR,2022-05-23
+hal-03659222,article,Elsevier,True,,2022-05-04
+pasteur-03648366,article,National Academy of Sciences,True,,2022-04-21
+hal-03648068,article,Public Library of Science,True,ANR,2022-04-21
+hal-03646797,article,Wiley,True,,2022-04-19
+pasteur-03606359,article,Wiley-VCH Verlag,True,ANR,2022-03-11
+hal-03599283,article,Oxford University Press,True,,2022-03-07
+pasteur-03589312,article,American Society for Microbiology,True,Europe,2022-02-25
+hal-03532947,article,American Institute of Physics,False,ANR,2022-02-21
+pasteur-03566824,article,Society for General Microbiology,True,Europe,2022-02-11
+pasteur-03566563,article,Wiley-VCH Verlag,False,Europe & ANR,2022-02-11
+hal-03544037,article,Elsevier,True,,2022-01-26
+hal-03538870,article,Cambridge University Press (CUP),True,,2022-01-21
+hal-03485170,article,BioMed Central,True,,2022-01-19
+hal-03521407,article,Nature Publishing Group,True,ANR,2022-01-13
+hal-03517488,article,Taylor & Francis (Routledge),True,,2022-01-07
+hal-03515260,article,Frontiers Media,True,,2022-01-06
+pasteur-03491954,article,Nature Publishing Group,True,,2021-12-18
+inserm-03474321,article,BioMed Central,True,,2021-12-10
+inserm-03472445,article,BMJ Publishing Group Ltd,True,,2021-12-09
+hal-03472238,article,,True,ANR,2021-12-09
+hal-03454274,preprint,,False,,2021-11-29
+inserm-03451518,article,Public Library of Science,True,,2021-11-26
+hal-03448955,article,Frontiers media,True,,2021-11-25
+hal-03404534,article,Wiley,True,,2021-10-26
+hal-03389681,article,Elsevier,True,,2021-10-21
+hal-03367845,article,Elsevier,True,,2021-10-06
+hal-03365863,article,Rockefeller University Press,True,,2021-10-05
+hal-03358372,article,Oxford University Press,True,,2021-09-29
+hal-03357198,article,Nature Publishing Group,True,,2021-09-28
+inserm-03356444,article,BioMed Central,True,,2021-09-28
+pasteur-03346634,article,American Society for Microbiology,True,Europe & ANR,2021-09-16
+hal-03346442,article,American Association for the Advancement of Science (AAAS),False,,2021-09-16
+hal-03346287,preprint,,False,,2021-09-16
+hal-03344682,article,Public Library of Science,True,ANR,2021-09-15
+hal-03084366,article,Cambridge University Press (CUP),False,,2021-09-07
+hal-03328505,article,,True,,2021-08-30
+hal-03240376,preprint,,True,,2021-05-28
+hal-03218707,article,Rockefeller University Press,False,,2021-05-05
