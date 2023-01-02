@@ -10,7 +10,8 @@ The **Rights Retention Strategy** (RRS) allow researchers to publish immediately
 * How ? 
 
 {: .home-txt}
-Authors retains sufficient rights to their publication to deposit a version of it in an open repository
+Add the following sentence to your manuscript and deposit it in an open repository: 
+> For the purpose of Open Access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission
 
 {: .home-txt}
 * Sounds good, I want to know more
