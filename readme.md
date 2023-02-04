@@ -8,12 +8,6 @@ Repository of the website "french RRS monitor". This jekyll website shed light o
 
 
 
-## Ideas
-
-- add journal title and OA model ?
-cons : the more you describe journal type the less you promote diversity. Try to describe scientific productions without focusing on journals.
-
-
 ## Credits
 
 Maxence Larrieu
@@ -26,6 +20,12 @@ Ross Mounce (FAQ review)
 ---------------
 
 ## Memo
+
+1. run _jupyter_ and open _produce-table.ipynb_ notebook
+2. execute notebook
+3. update date in _\_config.yml_ file
+3. run jekyll and verify the table integration
+4. open github & update
 
 Commandes
 ```

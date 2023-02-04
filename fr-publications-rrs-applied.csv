@@ -1,6 +1,13 @@
 HAL URI,genre,publisher,"publisher vers.
 is oa",European/ANR project,deposit date
+hal-03952595,article,Elsevier,True,,2023-01-23
+hal-03717833,article,Nature Publishing Group,True,,2023-01-20
+tel-03943917,other,,False,,2023-01-17
+hal-03927188,other,,False,,2023-01-09
+hal-03175706,article,Association des Annales de l'Institut Fourier,False,ANR,2023-01-05
+hal-03913976,preprint,,False,,2022-12-27
 hal-03903474,article,BioMed Central,True,,2022-12-16
+hal-03889528,article,,True,,2022-12-08
 hal-03880659,article,Frontiers media,True,,2022-12-01
 insu-03867009,article,Nature Publishing Group,True,,2022-11-23
 hal-03864274,article,Wiley,True,,2022-11-21
@@ -47,7 +54,7 @@ hal-03515260,article,Frontiers Media,True,,2022-01-06
 pasteur-03491954,article,Nature Publishing Group,True,,2021-12-18
 inserm-03474321,article,BioMed Central,True,,2021-12-10
 inserm-03472445,article,BMJ Publishing Group Ltd,True,,2021-12-09
-hal-03472238,article,,True,ANR,2021-12-09
+hal-03472238,article,BioMed Central,True,ANR,2021-12-09
 hal-03454274,preprint,,False,,2021-11-29
 inserm-03451518,article,Public Library of Science,True,,2021-11-26
 hal-03448955,article,Frontiers media,True,,2021-11-25
