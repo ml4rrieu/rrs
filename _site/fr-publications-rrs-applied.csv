@@ -1,14 +1,17 @@
 HAL URI,genre,publisher,"publisher vers.
 is oa",European/ANR project,deposit date
+hal-03791523,article,Institute of Physics: Open Access Journals,True,ANR,2023-02-16
+hal-03959998,article,Nature Publishing Group,True,,2023-01-27
 hal-03952595,article,Elsevier,True,,2023-01-23
 hal-03717833,article,Nature Publishing Group,True,,2023-01-20
 tel-03943917,other,,False,,2023-01-17
-hal-03927188,other,,False,,2023-01-09
+hal-03927188,proceedings,,False,,2023-01-09
 hal-03175706,article,Association des Annales de l'Institut Fourier,False,ANR,2023-01-05
 hal-03913976,preprint,,False,,2022-12-27
 hal-03903474,article,BioMed Central,True,,2022-12-16
 hal-03889528,article,,True,,2022-12-08
 hal-03880659,article,Frontiers media,True,,2022-12-01
+hal-03876807,article,Elsevier Inc,True,,2022-11-29
 insu-03867009,article,Nature Publishing Group,True,,2022-11-23
 hal-03864274,article,Wiley,True,,2022-11-21
 hal-03862359,article,eLife Sciences Publication,True,,2022-11-21
@@ -23,15 +26,14 @@ hal-03799889,article,eLife Sciences Publication,True,,2022-10-06
 hal-03798290,preprint,,False,,2022-10-05
 hal-03788705,article,MDPI,True,,2022-09-26
 hal-03559481,article,Cambridge University Press (CUP),True,,2022-09-25
-hal-03783673,article,American Chemical Society,True,,2022-09-22
 hal-03782836,article,MDPI,True,,2022-09-21
 hal-03779985,article,National Academy of Sciences,True,,2022-09-18
 hal-03722336,article,Nature Publishing Group,True,,2022-07-13
 pasteur-03716706,article,Elsevier,True,Europe & ANR,2022-07-07
-lirmm-03714595,proceedings,,False,,2022-07-05
+lirmm-03714595,other,,False,,2022-07-05
 pasteur-03712988,preprint,,False,ANR,2022-07-04
 hal-03579777,article,,True,,2022-06-20
-pasteur-03699210,article,ACS Publications,True,,2022-06-20
+pasteur-03699210,article,ACS Publications,False,,2022-06-20
 pasteur-03694335,article,Nature Publishing Group,True,,2022-06-13
 hal-03684839,article,Nature Publishing Group,True,,2022-06-01
 pasteur-03675874,article,American Society for Microbiology,True,ANR,2022-05-23
