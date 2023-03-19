@@ -1,5 +1,8 @@
 HAL URI,genre,publisher,"publisher vers.
-is oa",European/ANR project,deposit date
+is OA",European/ANR project,deposit date
+hal-04034048,preprint,,False,ANR,2023-03-17
+hal-04026520,article,Nature Publishing Group,True,,2023-03-13
+anses-03992660,article,Oxford University Press (OUP),True,Europe,2023-02-16
 hal-03791523,article,Institute of Physics: Open Access Journals,True,ANR,2023-02-16
 hal-03959998,article,Nature Publishing Group,True,,2023-01-27
 hal-03952595,article,Elsevier,True,,2023-01-23
@@ -15,7 +18,7 @@ hal-03876807,article,Elsevier Inc,True,,2022-11-29
 insu-03867009,article,Nature Publishing Group,True,,2022-11-23
 hal-03864274,article,Wiley,True,,2022-11-21
 hal-03862359,article,eLife Sciences Publication,True,,2022-11-21
-hal-03861133,preprint,,False,,2022-11-19
+hal-03861133,preprint,,True,,2022-11-19
 hal-03709462,article,,True,,2022-11-18
 hal-03837142,article,Elsevier,True,,2022-11-03
 hal-03837128,article,eLife Sciences Publication,True,,2022-11-03
