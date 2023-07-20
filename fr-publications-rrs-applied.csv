@@ -1,14 +1,25 @@
 HAL URI,genre,publisher,"publisher vers.
 is OA",European/ANR project,deposit date
+hal-03873174,article,Springer Verlag,True,ANR,2023-07-10
+hal-04156101,article,Elsevier,False,,2023-07-07
+hal-04150365,article,American Association for the Advancement of Science (AAAS),True,ANR,2023-07-06
+hal-04140444,article,Elsevier,False,ANR,2023-06-25
+hal-04140119,article,IEEE,True,ANR,2023-06-24
+hal-04133503,article,Public Library of Science,True,,2023-06-20
+pasteur-04117002,preprint,,True,Europe & ANR,2023-06-05
+hal-04107194,article,,False,,2023-05-26
+hal-04106130,article,Nature Pub. Group,True,Europe,2023-05-25
+hal-04105976,article,Springer Nature,True,,2023-05-25
+hal-04093196,preprint,,False,ANR,2023-05-11
+hal-04087268,other,,False,,2023-05-08
 hal-04087093,preprint,,False,ANR,2023-05-02
-hal-04062783,preprint,,False,,2023-04-07
+hal-04062783,preprint,,False,ANR,2023-04-07
 inserm-04052649,article,BioMed Central,True,,2023-03-30
 hal-04046228,preprint,,False,ANR,2023-03-29
 hal-04050996,article,Frontiers Media S.A.,True,,2023-03-29
 hal-04046845,preprint,,False,ANR,2023-03-26
 hal-04035467,other,,False,,2023-03-24
-hal-04042351,other,,True,ANR,2023-03-23
-hal-04040588,other,,False,ANR,2023-03-22
+hal-04042351,other,,False,ANR,2023-03-23
 hal-04034048,preprint,,False,ANR,2023-03-17
 hal-04026520,article,Nature Publishing Group,True,,2023-03-13
 anses-03992660,article,Oxford University Press (OUP),True,Europe,2023-02-16
@@ -28,7 +39,7 @@ insu-03867009,article,Nature Publishing Group,True,,2022-11-23
 hal-03864274,article,Wiley,True,,2022-11-21
 hal-03862359,article,eLife Sciences Publication,True,,2022-11-21
 hal-03861133,preprint,,True,,2022-11-19
-hal-03709462,article,,True,,2022-11-18
+hal-03709462,article,,True,ANR,2022-11-18
 hal-03837142,article,Elsevier,True,,2022-11-03
 hal-03837128,article,eLife Sciences Publication,True,,2022-11-03
 hal-03832767,article,Frontiers Media,True,,2022-10-27
@@ -38,7 +49,8 @@ hal-03799889,article,eLife Sciences Publication,True,,2022-10-06
 hal-03798290,preprint,,False,,2022-10-05
 hal-03788705,article,MDPI,True,,2022-09-26
 hal-03559481,article,Cambridge University Press (CUP),True,,2022-09-25
-hal-03782836,article,MDPI,True,,2022-09-21
+hal-03783673,article,American Chemical Society,True,ANR,2022-09-22
+hal-03782836,article,MDPI,True,ANR,2022-09-21
 hal-03779985,article,National Academy of Sciences,True,,2022-09-18
 hal-03722336,article,Nature Publishing Group,True,,2022-07-13
 pasteur-03716706,article,Elsevier,True,Europe & ANR,2022-07-07
@@ -58,7 +70,7 @@ hal-03599283,article,Oxford University Press,True,,2022-03-07
 pasteur-03589312,article,American Society for Microbiology,True,Europe,2022-02-25
 hal-03532947,article,American Institute of Physics,False,ANR,2022-02-21
 pasteur-03566824,article,Society for General Microbiology,True,Europe,2022-02-11
-pasteur-03566563,article,Wiley-VCH Verlag,False,Europe & ANR,2022-02-11
+pasteur-03566563,article,Wiley-VCH Verlag,True,Europe & ANR,2022-02-11
 hal-03544037,article,Elsevier,True,,2022-01-26
 hal-03538870,article,Cambridge University Press (CUP),True,,2022-01-21
 hal-03485170,article,BioMed Central,True,,2022-01-19
@@ -71,13 +83,13 @@ inserm-03472445,article,BMJ Publishing Group Ltd,True,,2021-12-09
 hal-03472238,article,BioMed Central,True,ANR,2021-12-09
 hal-03454274,preprint,,False,,2021-11-29
 inserm-03451518,article,Public Library of Science,True,,2021-11-26
-hal-03448955,article,Frontiers media,True,,2021-11-25
+hal-03448955,article,Frontiers media,True,ANR,2021-11-25
 hal-03404534,article,Wiley,True,,2021-10-26
 hal-03389681,article,Elsevier,True,,2021-10-21
 hal-03367845,article,Elsevier,True,,2021-10-06
-hal-03365863,article,Rockefeller University Press,True,,2021-10-05
+hal-03365863,article,Rockefeller University Press,True,ANR,2021-10-05
 hal-03358372,article,Oxford University Press,True,,2021-09-29
-hal-03357198,article,Nature Publishing Group,True,,2021-09-28
+hal-03357198,article,Nature Publishing Group,True,ANR,2021-09-28
 inserm-03356444,article,BioMed Central,True,,2021-09-28
 pasteur-03346634,article,American Society for Microbiology,True,Europe & ANR,2021-09-16
 hal-03346442,article,American Association for the Advancement of Science (AAAS),False,,2021-09-16
