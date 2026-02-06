@@ -63,7 +63,7 @@ Practically-speaking, this data has been colleced by querying for papers in the 
 
 ## How often will the data be updated?
 
-Once per month.
+When I have time ;) Thank you for your understanding.
 
 ## Please describe the columns of the table (data schema)
 
