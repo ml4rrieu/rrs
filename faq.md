@@ -85,7 +85,7 @@ Is the publisher version available in open access at the publisher website. The 
 
 * European/ANR project 
 
-Indicates if the publication comes from an European or ANR project (the main French government research funder, _Agence Nationale de la Recherche_). /!\ true only if the dedicated metadata in HAL has been fill. cf. the [HAL documentation](https://doc.archives-ouvertes.fr/en/deposit/how-to-complete-the-deposit/) "Adding an ANR project" and "Adding an european project".
+Indicates if the publication comes from an European or ANR project (the main French government research funder, _Agence Nationale de la Recherche_). /!\ true only if the dedicated metadata in HAL has been fill, cf. the [HAL documentation](https://doc.hal.science/financeurs/).
 
 * deposit date
 
